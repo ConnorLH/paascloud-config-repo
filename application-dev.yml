@@ -111,8 +111,8 @@ paascloud:
       expiredMinutes: 120
   aliyun:
     key:
-      accessKeyId: 'your aliyun accessKeyId'
-      accessKeySecret: 'your aliyun accessKeySecret'
+      accessKeyId: LTAIaGRLinb5vowp
+      accessKeySecret: UAp3ICf9mibf2UpdDtoGymdDPDYGfP
     rocketMq:
       namesrvAddr: paascloud-mq-rocket:9876
     sms:
@@ -124,8 +124,8 @@ paascloud:
       domain: dysmsapi.aliyuncs.com
   qiniu:
     key:
-      accessKey: 'your qiniu accessKey'
-      secretKey: 'your qiniu secretKey'
+      accessKey: yECkKIHvAR9007l1ihm7ILT4iSilqM9gVwu_5T9U
+      secretKey: eF1k0y3WRCyeS1XnO7UuqhjQW2PlRfw-ihAOgzCI
     oss:
       privateHost: 'your qiniu oss private host'
       publicHost: 'your qiniu oss public host'
